@@ -34,3 +34,12 @@ let compEvery = computers.every(function(computer){
 console.log("Every es:");
 console.log('---------');
 console.log(compEvery);
+console.log('');
+
+let compSome = computers.some(function(computer){
+    return computer.ram > 16;
+});
+
+console.log("Some es:");
+console.log('---------');
+console.log(compSome);
