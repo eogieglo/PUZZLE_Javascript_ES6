@@ -21,3 +21,9 @@ console.log(filteredProducts.length);
 
 let filter2 = JSON.stringify(filteredProducts)
 console.log(filter2);
+
+let filter3 = products.filter(function(product) {
+     return product.type === 'vegetable';
+})
+
+console.log(filter3);
