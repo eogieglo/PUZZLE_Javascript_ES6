@@ -16,12 +16,21 @@ for (let i = 0; i < products.length; i++) {
         filteredProducts.push(products[i]);
     }
 }
-
+console.log('');
+console.log('El filtro de fruit es: ');
+console.log('----------------------');
 console.log(filteredProducts.length);
 
+console.log('');
+
+console.log('El filtro es: ');
+console.log('----------------------');
 let filter2 = JSON.stringify(filteredProducts)
 console.log(filter2);
 
+console.log('');
+console.log('El filtro de vegetable es: ');
+console.log('----------------------');
 let filter3 = products.filter(function(product) {
      return product.type === 'vegetable';
 })
