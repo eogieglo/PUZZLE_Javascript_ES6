@@ -1,7 +1,6 @@
-let fullYear = function getMessage() {
-    return 'The year is ${new Date().getFullYear()}';
+let full = function getMessage() {
+    const year = new Date().getFullYear();
+    return console.log(`The year is ${year}`);
 }
 
-console.log(fullYear);
-
-//No entendi como mostrarlo por consola
+console.log(full());
