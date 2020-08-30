@@ -2,40 +2,40 @@
 
 --- EJECUTAR node 14_FindContinued.js para ver el resultado en la consola */
 
-function Car(model){
-    this.model = model; 
+function Car (model) {
+  this.model = model
 }
 
-let cars = [
-    new Car('Buick'),
-    new Car('Camaro'),
-    new Car('Focus')
-];
+const cars = [
+  new Car('Buick'),
+  new Car('Camaro'),
+  new Car('Focus')
+]
 
-let filterFocus = cars.find(function(car){
-    return car.model === 'Focus';
-});
+const filterFocus = cars.find(function (car) {
+  return car.model === 'Focus'
+})
 
-console.log('El resultado del filtro es: ');
-console.log('--------------------------- ');
-console.log(filterFocus);
-console.log('');
+console.log('El resultado del filtro es: ')
+console.log('--------------------------- ')
+console.log(filterFocus)
+console.log('')
 
-//En el video Borra el codigo y empieza con uno nuevo
+// En el video Borra el codigo y empieza con uno nuevo
 
-let posts = [
-    { id: 1, title: 'New Post' },
-    { id: 2, title: 'Old Post' }
-];
+const posts = [
+  { id: 1, title: 'New Post' },
+  { id: 2, title: 'Old Post' }
+]
 
-let comment = { postId: 1, content: 'Great Post'};
+const comment = { postId: 1, content: 'Great Post' }
 
-function postForComment(posts, comment) {
-    return posts.find(function(post){
-        return post.id === comment.postId;
-    });
+function postForComment (posts, comment) {
+  return posts.find(function (post) {
+    return post.id === comment.postId
+  })
 }
 
-console.log('El post comentario es: ');
-console.log('-----------------');
-console.log(postForComment(posts, comment));
+console.log('El post comentario es: ')
+console.log('-----------------')
+console.log(postForComment(posts, comment))

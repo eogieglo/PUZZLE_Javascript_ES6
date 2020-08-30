@@ -2,25 +2,24 @@
 
 --- EJECUTAR node 31_EnhancedObjectLiteral.js para ver el resultado en la consola */
 
-
-function createBookShop(inventory) {
-    return {
-        inventory: inventory,
-        inventoryValue: function(){
-            return this.inventory.reduce((total, book) => total + book.price, 0);
-        },
-        priceForTitle: function(title){
-            return this.inventory.find(book => book.title === title).price;
-        }
-    };
+function createBookShop (inventory) {
+  return {
+    inventory: inventory,
+    inventoryValue: function () {
+      return this.inventory.reduce((total, book) => total + book.price, 0)
+    },
+    priceForTitle: function (title) {
+      return this.inventory.find(book => book.title === title).price
+    }
+  }
 }
 
 const inventory = [
-    { title: 'Harry Potter', price: 10 },
-    { title: 'Eloquent Javascript', price: 15}
-];
+  { title: 'Harry Potter', price: 10 },
+  { title: 'Eloquent Javascript', price: 15 }
+]
 
-const bookShop = createBookShop(inventory);
+const bookShop = createBookShop(inventory)
 
-console.log(bookShop.inventoryValue());
-console.log(bookShop.priceForTitle('Harry Potter'));
+console.log(bookShop.inventoryValue())
+console.log(bookShop.priceForTitle('Harry Potter'))

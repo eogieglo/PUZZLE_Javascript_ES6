@@ -2,18 +2,18 @@
 
 --- EJECUTAR node 8_MapHelperContinued.js para ver el resultado en la consola */
 
-let cars = [
-    { model: 'Buick', price: 'CHEAP' },
-    { model: 'Camaro', price: 'expensive' }
-];
+const cars = [
+  { model: 'Buick', price: 'CHEAP' },
+  { model: 'Camaro', price: 'expensive' }
+]
 
-let prices = cars.map(function(car){
-    return car.price;
-});
+const prices = cars.map(function (car) {
+  return car.price
+})
 
-console.log('Precios');
-console.log(prices);
-console.log('---------');
-let prices2 = JSON.stringify(prices)
-console.log('Precios convertidos');
-console.log(prices2);
+console.log('Precios')
+console.log(prices)
+console.log('---------')
+const prices2 = JSON.stringify(prices)
+console.log('Precios convertidos')
+console.log(prices2)

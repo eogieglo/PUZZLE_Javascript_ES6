@@ -2,18 +2,18 @@
 
 --- EJECUTAR node 12_ChoosingWhentoFilter.js para ver el resultado en la consola */
 
-let post = { id: 4, title: 'New Post' };
-let comments = [
-    { postId: 4, content: 'awesome post' },
-    { postId: 3, content: 'it was ok' },
-    { postId: 4, content: 'neat' }
-];
+const post = { id: 4, title: 'New Post' }
+const comments = [
+  { postId: 4, content: 'awesome post' },
+  { postId: 3, content: 'it was ok' },
+  { postId: 4, content: 'neat' }
+]
 
-function commentsForPost(post, comments) {
-    return comments.filter(function(comment) {
-        return comment.postId === post.id;
-    });
+function commentsForPost (post, comments) {
+  return comments.filter(function (comment) {
+    return comment.postId === post.id
+  })
 }
-console.log('Los post y comentarios son:');
-console.log('----------------------------');
-console.log(commentsForPost(post, comments));
+console.log('Los post y comentarios son:')
+console.log('----------------------------')
+console.log(commentsForPost(post, comments))

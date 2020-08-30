@@ -2,44 +2,44 @@
 
 --- EJECUTAR node 16_LittleEveryLotSome para ver el resultado en la consola */
 
-let computers = [
-    {name:'Apple',ram: 24 },
-    {name:'Compaq',ram: 4 },
-    {name:'Acer',ram: 32 }
-];
+const computers = [
+  { name: 'Apple', ram: 24 },
+  { name: 'Compaq', ram: 4 },
+  { name: 'Acer', ram: 32 }
+]
 
-let allComputersCanRunProgram = true;
+let allComputersCanRunProgram = true
 
-let onlySomeComputersCanRunProgram = false;
+let onlySomeComputersCanRunProgram = false
 
 for (let i = 0; i < computers.length; i++) {
-    let computer = computers[i];
+  const computer = computers[i]
 
-    if (computer.ram < 16) {
-        allComputersCanRunProgram = false;
-    } else {
-        onlySomeComputersCanRunProgram = true;
-    }
+  if (computer.ram < 16) {
+    allComputersCanRunProgram = false
+  } else {
+    onlySomeComputersCanRunProgram = true
+  }
 }
 
-console.log(allComputersCanRunProgram);
-console.log(onlySomeComputersCanRunProgram);
+console.log(allComputersCanRunProgram)
+console.log(onlySomeComputersCanRunProgram)
 
-console.log('');
+console.log('')
 
-let compEvery = computers.every(function(computer){
-    return computer.ram > 16;
-});
+const compEvery = computers.every(function (computer) {
+  return computer.ram > 16
+})
 
-console.log("Every es:");
-console.log('---------');
-console.log(compEvery);
-console.log('');
+console.log('Every es:')
+console.log('---------')
+console.log(compEvery)
+console.log('')
 
-let compSome = computers.some(function(computer){
-    return computer.ram > 16;
-});
+const compSome = computers.some(function (computer) {
+  return computer.ram > 16
+})
 
-console.log("Some es:");
-console.log('---------');
-console.log(compSome);
+console.log('Some es:')
+console.log('---------')
+console.log(compSome)

@@ -1,15 +1,17 @@
-// EJECUTAR node 1_HowToTakeThisCurse.js para ver el resultado en la consola
+/* Nombre con numeros los archivos Js para que se corresponda con los numeros de videos
 
-let number = 5000;
-let greeting = { hello: number };
+--- EJECUTAR node 1_HowToTakeThisCurse.js para ver el resultado en la consola */
 
-let result = number / 20;
-console.log(result);    
+const number = 5000
+const greeting = { hello: number }
 
-let resultTwo = number / 50;
-console.log(resultTwo);
+const result = number / 20
+console.log(result)
 
-console.log('Your number is: ' + number);
+const resultTwo = number / 50
+console.log(resultTwo)
 
-let greeting2 = JSON.stringify(greeting);
-console.log(greeting2);
+console.log('Your number is: ' + number)
+
+const greeting2 = JSON.stringify(greeting)
+console.log(greeting2)

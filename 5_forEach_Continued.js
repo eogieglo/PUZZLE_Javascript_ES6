@@ -3,19 +3,19 @@
 --- EJECUTAR node 5_ForEach_Continued.js para ver el resultado en la consola */
 
 //  Create an array of numbers
-let numbers = [1,2,3,4,5];
+const numbers = [1, 2, 3, 4, 5]
 
 //  Create a variable to hold the sum
-let sum = 0;
+let sum = 0
 
-function adder(number){ 
-    sum += number;
+function adder (number) {
+  sum += number
 }
 
 //  Loop over the array, incrementing the sum variable
-numbers.forEach(adder);
+numbers.forEach(adder)
 
 // Print the sum variable
-console.log('El resultado de la suma es: ');
-console.log('---------------------------');
-console.log(sum);
+console.log('El resultado de la suma es: ')
+console.log('---------------------------')
+console.log(sum)

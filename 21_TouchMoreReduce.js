@@ -2,18 +2,18 @@
 
 --- EJECUTAR node 21_TouchMoreReduce para ver el resultado en la consola */
 
-let primaryColors = [ 
-    {color: 'red'},
-    {color: 'yellow'},
-    {color: 'blue'}     
-];
+const primaryColors = [
+  { color: 'red' },
+  { color: 'yellow' },
+  { color: 'blue' }
+]
 
-let color = primaryColors.reduce(function(previous, primaryColor){
-    previous.push(primaryColor.color);
+const color = primaryColors.reduce(function (previous, primaryColor) {
+  previous.push(primaryColor.color)
 
-    return previous;
-}, []);
+  return previous
+}, [])
 
-console.log('El array es: ');
-console.log('');
-console.log(color);
+console.log('El array es: ')
+console.log('')
+console.log(color)
