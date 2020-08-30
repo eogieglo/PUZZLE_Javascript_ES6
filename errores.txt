@@ -1,0 +1,541 @@
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:5:5: 'products' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:8:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:9:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:10:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:12:5: 'filteredProducts' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:12:26: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:15:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:15:5: Expected space(s) after "if".
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:15:24: Multiple spaces found before '==='.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:15:38: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:16:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:16:43: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:17:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:19:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:20:39: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:21:38: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:22:37: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:24:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:26:30: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:27:38: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:28:5: 'filter2' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:29:21: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:31:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:32:43: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:33:38: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:34:5: 'filter3' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:34:39: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:35:1: Expected indentation of 2 spaces but found 5.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:35:41: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:38:21: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/10_SelectingNeededDataFilter.js:38:22: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:5:5: 'products' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:6:53: Missing space before value for key 'quantity'.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:7:47: Missing space before value for key 'quantity'.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:8:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:8:51: Missing space before value for key 'quantity'.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:9:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:9:47: Missing space before value for key 'quantity'.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:10:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:12:1: Expected space or tab after '//' in comment.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:14:5: 'filter3' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:14:39: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:15:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:16:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:17:44: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:18:42: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:19:21: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/11_MoreOnFiltering.js:19:22: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:5:5: 'post' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:5:40: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:6:5: 'comments' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:8:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:9:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:10:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:12:25: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:13:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:13:36: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:14:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:14:42: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:15:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:15:7: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:17:43: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:18:44: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/12_ChoosingWhentoFilter.js:19:45: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:5:5: 'users' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:6:19: A space is required before '}'.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:7:19: A space is required before '}'.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:8:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:8:19: A space is required before '}'.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:9:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:11:9: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:13:6: There should be no space after this paren.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:13:40: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:14:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:15:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:15:24: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:16:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:16:14: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:17:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:20:28: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:21:27: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:22:18: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:24:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:26:5: 'find1' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:26:32: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:26:38: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:27:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:28:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:30:49: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:31:35: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:32:19: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/13_QueryingForRecordsFind.js:32:20: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:5:13: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:5:20: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:6:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:6:24: Trailing spaces not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:9:5: 'cars' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:10:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:11:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:12:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:13:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:15:5: 'filterFocus' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:15:37: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:15:42: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:16:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:16:33: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:17:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:19:44: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:20:44: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:21:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:22:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:24:1: Expected space or tab after '//' in comment.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:26:5: 'posts' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:27:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:28:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:29:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:31:5: 'comment' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:31:49: A space is required before '}'.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:31:50: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:33:24: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:34:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:34:31: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:34:37: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:35:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:35:42: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:36:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:36:7: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:39:39: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:40:33: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/14_FindContinued.js:41:44: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:5:5: 'computers' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:6:5: A space is required after '{'.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:6:11: Missing space before value for key 'name'.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:6:18: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:7:5: A space is required after '{'.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:7:11: Missing space before value for key 'name'.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:7:19: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:8:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:8:5: A space is required after '{'.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:8:11: Missing space before value for key 'name'.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:8:17: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:9:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:11:37: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:13:43: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:16:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:16:9: 'computer' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:16:32: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:18:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:19:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:19:42: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:20:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:21:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:21:46: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:22:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:25:39: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:26:44: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:28:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:30:5: 'compEvery' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:30:41: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:30:51: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:31:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:31:29: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:32:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:34:13: Strings must use singlequote.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:34:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:35:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:36:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:37:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:39:5: 'compSome' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:39:39: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:39:49: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:40:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:40:29: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:41:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:43:13: Strings must use singlequote.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:43:24: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:44:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:45:22: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/16_LittleEveryLotSome.js:45:23: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:5:5: 'names' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:8:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:9:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:11:5: 'every' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:11:33: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:11:39: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:12:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:12:27: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:13:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:14:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:15:42: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:16:41: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:17:19: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:19:5: 'some' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:19:31: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:19:37: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:20:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:20:27: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:21:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:22:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:23:41: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:24:41: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/18_EverySomeSintax.js:25:18: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:5:15: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:5:22: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:6:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:9:36: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:10:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:10:33: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:11:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:13:1: More than 1 blank line not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:14:5: 'username' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:14:34: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:15:5: 'password' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:15:40: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:16:5: 'birthdate' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:16:40: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:17:5: 'fields' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:17:23: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:17:32: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:17:43: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:19:1: More than 1 blank line not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:20:5: 'resultEvery' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:20:40: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:20:47: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:21:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:22:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:24:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:25:42: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:26:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:30:1: More than 1 blank line not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:31:5: 'formValid' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:31:38: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:31:45: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:32:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:33:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:36:1: Expected space or tab after '//' in comment.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:38:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:38:5: Expected space or tab after '//' in comment.
+  /home/erico/Puzzle/JavaScript_ES6/19_EverySome_Practice.js:39:3: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:5:5: 'number' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:5:18: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:6:5: 'greeting' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:6:33: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:8:5: 'result' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:8:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:9:20: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:9:21: Trailing spaces not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:11:5: 'resultTwo' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:11:28: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:12:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:14:41: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:16:5: 'greeting2' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:16:41: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:17:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/1_HowToTakeThisCurse.js:17:24: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:5:5: 'numbers' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:5:16: There should be no space after '['.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:5:19: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:5:22: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:5:25: There should be no space before ']'.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:5:27: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:6:12: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:8:41: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:9:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:9:22: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:11:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:12:50: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:13:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:14:17: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:15:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:17:5: 'resultSum' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:17:40: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:17:53: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:18:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:18:24: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:19:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:20:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:21:62: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:22:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:23:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:24:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/20_CondensingListsReduce.js:24:17: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:5:5: 'primaryColors' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:5:22: Trailing spaces not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:6:5: A space is required after '{'.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:6:18: A space is required before '}'.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:7:5: A space is required after '{'.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:7:21: A space is required before '}'.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:8:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:8:5: A space is required after '{'.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:8:19: A space is required before '}'.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:8:20: Trailing spaces not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:9:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:11:5: 'color' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:11:42: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:11:66: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:12:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:12:38: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:14:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:14:20: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:15:7: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:17:29: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:18:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:19:19: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/21_TouchMoreReduce.js:19:20: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:5:24: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:5:32: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:6:25: Strings must use singlequote.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:6:44: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:6:60: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:7:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:7:46: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:8:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:8:46: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:9:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:9:24: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:10:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:10:12: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:13:34: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/22_NextInterviewReduce.js:13:35: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:4:1: Trailing spaces not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:5:1: Expected space or tab after '//' in comment.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:6:1: Expected space or tab before '*/' in comment.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:20:33: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:21:21: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:23:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:24:31: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:25:19: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:26:20: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:27:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:31:36: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:32:17: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:34:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:35:43: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:36:19: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:37:20: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/23_ConstLetVar.js:38:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:5:15: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:5:29: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:6:28: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:6:32: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:6:36: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:6:40: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:6:45: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:7:19: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:9:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:9:50: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:10:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:11:1: Expected indentation of 6 spaces but found 12.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:11:21: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:12:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:13:1: Trailing spaces not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:14:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:14:22: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:15:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:18:26: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/24_ConstLetSolve.js:18:27: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/25_TemplateString.js:1:5: 'full' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/25_TemplateString.js:1:31: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/25_TemplateString.js:2:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/25_TemplateString.js:2:42: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/25_TemplateString.js:3:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/25_TemplateString.js:3:46: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/25_TemplateString.js:6:20: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/25_TemplateString.js:6:21: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:5:1: Expected space or tab after '//' in comment.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:9:7: Identifier 'device_id' is not in camel case.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:9:20: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:10:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:11:18: Strings must use singlequote.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:11:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:13:33: Identifier 'device_id' is not in camel case.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:13:95: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:15:18: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:19:18: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:20:42: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:22:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:22:26: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:5:15: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:6:17: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:7:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:9:18: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:9:22: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:13:1: More than 1 blank line not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:14:16: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:14:22: Multiple spaces found before 'a'.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:14:25: Operator '+' must be spaced.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:14:27: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:16:19: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:16:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/27_FatArrowFunctions.js:16:24: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:6:22: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:7:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:9:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:11:1: Expected space or tab after '//' in comment.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:13:19: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:13:21: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:13:24: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:15:5: 'numbersMap' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:15:51: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/28_AdvancedArrowFunction.js:17:24: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:6:21: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:8:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:8:26: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:9:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:9:41: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:9:49: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:10:1: Expected indentation of 6 spaces but found 12.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:10:59: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:10:60: Trailing spaces not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:11:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:11:11: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:12:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:13:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:15:32: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/29_WhenUseArrowFunction.js:15:33: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:5:1: More than 1 blank line not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:6:24: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:8:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:9:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:9:33: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:9:35: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:10:1: Expected indentation of 6 spaces but found 12.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:10:81: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:11:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:12:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:12:32: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:12:39: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:13:1: Expected indentation of 6 spaces but found 12.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:13:75: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:14:1: Expected indentation of 4 spaces but found 8.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:15:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:15:6: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:19:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:20:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:20:46: A space is required before '}'.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:21:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:23:43: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:25:39: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:26:52: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/31_EnhancedObjectLiteral.js:26:53: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:5:5: 'colors' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:5:20: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:5:27: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:5:36: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:7:1: More than 1 blank line not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:8:28: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:9:27: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:11:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:11:27: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:14:16: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:16:32: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:17:31: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:18:24: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:18:31: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:19:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:19:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/4_ForEach_ArrayHelperMethods.js:20:3: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:6:5: 'numbers' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:6:17: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:6:19: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:6:21: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:6:23: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:6:26: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:9:12: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:11:15: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:11:23: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:11:24: Trailing spaces not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:12:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:12:18: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:16:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:19:44: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:20:43: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:21:17: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/5_forEach_Continued.js:21:18: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:5:5: 'numbers' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:5:17: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:5:19: A space is required after ','.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:5:22: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:6:5: 'doubledNumbers' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:6:24: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:8:28: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:9:28: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:11:12: Operator '=' must be spaced.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:12:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:12:40: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:12:41: Trailing spaces not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:15:1: More than 1 blank line not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:16:29: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:17:28: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:18:28: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:20:1: More than 1 blank line not allowed.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:21:5: 'doubled' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:21:35: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:22:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:22:22: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:23:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:25:40: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:26:39: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:27:21: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/7_TheMapHelper.js:27:22: Newline required at end of file but not found.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:5:5: 'cars' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:6:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:7:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:8:2: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:10:5: 'prices' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:10:31: Missing space before function parentheses.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:10:36: Missing space before opening brace.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:11:1: Expected indentation of 2 spaces but found 4.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:11:21: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:12:3: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:14:23: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:15:20: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:16:25: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:17:5: 'prices2' is never reassigned. Use 'const' instead.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:18:35: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:19:21: Extra semicolon.
+  /home/erico/Puzzle/JavaScript_ES6/8_MapHelperContinued.js:19:22: Newline required at end of file but not found.
