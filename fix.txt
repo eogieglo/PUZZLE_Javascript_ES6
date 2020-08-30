@@ -1,0 +1,2 @@
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:9:7: Identifier 'device_id' is not in camel case.
+  /home/erico/Puzzle/JavaScript_ES6/26_ReachTemplateString.js:13:33: Identifier 'device_id' is not in camel case.
